@@ -319,7 +319,7 @@ export default function Hedaer(){
 
         <div className="mt-5">
           <Link
-            href="/page1"
+            href="/Discover_Polkadot"
             className="bg-black text-white font-semibold py-4 px-4 rounded-full hover:bg-pink-600"
           >
             Discover Polkadot
