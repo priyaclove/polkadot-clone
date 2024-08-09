@@ -4,7 +4,7 @@ import { FaTwitter, FaRedditAlien, FaGithub, FaYoutube, FaDiscord } from 'react-
 
 export default function Footer() {
   return (
-    <footer className="max-w-[1400px] mx-auto px-28 py-16 bg-white">
+    <footer className="max-w-[1400px] mx-auto px-28  bg-white">
       <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
         {/* Ecosystem Column */}
         <div>
