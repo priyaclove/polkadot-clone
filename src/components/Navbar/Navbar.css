@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+
+
+
+li:hover h1 {
+    color: #e6007a; 
+  }
+  
+  li:hover p {
+    color: black;
+  }
+  
